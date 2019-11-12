@@ -1,0 +1,21 @@
+{
+  "name": "sinterklaaslijstjeweb",
+  "version": "1.0.0",
+  "description": "WEB sinterklaas CRUD PHP lijstje",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "PHP",
+    "CRUD",
+    "Bootstrap",
+    "Typescript",
+    "Javascript"
+  ],
+  "author": "Flobatir Salama",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/bootstrap": "^4.3.1"
+  }
+}
